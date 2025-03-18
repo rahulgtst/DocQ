@@ -1,0 +1,3 @@
+PyPDF2
+pinecone
+python-dotenv
