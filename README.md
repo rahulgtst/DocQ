@@ -6,7 +6,7 @@ A simple RAG Application, that performs Q&A on pdfs.
 
 ## Features
 - Create embeddings of content present inside the PDF.
-- Return a AI Generated response query based on context found for query.
+- Return a AI-Generated response query based on the context found for the query.
 
 ## Installation
 
@@ -27,9 +27,9 @@ A simple RAG Application, that performs Q&A on pdfs.
 
 ## Usage
 
-Provide instructions on how to run the project.
+How to run the project.
 ```sh
-python generate_emebeddings.py # To generate embeddings
+python generate-emebeddings.py # To generate embeddings
 ```
 
 <!-- 
